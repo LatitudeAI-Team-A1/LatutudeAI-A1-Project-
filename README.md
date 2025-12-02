@@ -1,1 +1,1 @@
-# LatutudeAI-A1-Project-
+# Latitude_AI-A1-Project-
