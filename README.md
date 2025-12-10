@@ -1,4 +1,4 @@
-**# Latitude_AI-A1-Project-
+**Latitude_AI-A1-Project
 # Instance Segmentation for Autonomous Driving  
 ### Latitude AI Team 1A · Break Through Tech AI Studio
 
