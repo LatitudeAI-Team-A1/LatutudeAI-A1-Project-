@@ -26,7 +26,7 @@
 | Joseph Boadi      |   |            |
 | Juliana Prada     |   |          |
 | Malk Khalifa      |   |                                  |
-| Emmanuel Fanibi   |   |                 |
+| Emmanuel Fanibi   |   @efanibi25                 |Data Training|
 
 ---
 
