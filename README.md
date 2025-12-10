@@ -21,12 +21,12 @@
 | Name              | GitHub Handle        | Contributions (high level)                                           |
 |-------------------|----------------------|-----------------------------------------------------------------------|
 | Aisling Greene    |  @AislingGreene      | Project coordination, modeling pipeline, visualization, README/docs   |
-| Rebecca Forman    | `@your-handle-here`  | Data exploration, visualization, model debugging                     |
-| Saanvi Chougule   | `@your-handle-here`  | Dataset integration, preprocessing, experimentation                  |
-| Joseph Boadi      | `@your-handle-here`  | Model training runs, hyperparameter tuning, logging setup           |
-| Juliana Prada     | `@your-handle-here`  | Qualitative analysis, failure case study, slide deck design         |
-| Malk Khalifa      | `@your-handle-here`  | Documentation, EDA, inference demos                                 |
-| Emmanuel Fanibi   | `@your-handle-here`  | Code refactoring, utilities, infrastructure support                 |
+| Rebecca Forman    |   |                      |
+| Saanvi Chougule   |   |                   |
+| Joseph Boadi      |   |            |
+| Juliana Prada     |   |          |
+| Malk Khalifa      |   |                                  |
+| Emmanuel Fanibi   |   |                 |
 
 ---
 
