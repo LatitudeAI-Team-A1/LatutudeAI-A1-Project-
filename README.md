@@ -61,7 +61,7 @@ This work directly supports business needs at **Latitude AI**, including:
 ---
 
 ## Repository Structure
-
+```text
 ├── README.md
 ├── environment.yml / requirements.txt   # Dependencies
 ├── data/
@@ -91,4 +91,4 @@ This work directly supports business needs at **Latitude AI**, including:
 │   │   └── qualitative_examples.png
 │   └── ai_studio_slides.pdf             # Slide deck export (this project)
 └── LICENSE
-**
+```
