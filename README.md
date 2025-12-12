@@ -21,7 +21,7 @@
 | Name              | GitHub Handle        | Contributions (high level)                                           |
 |-------------------|----------------------|-----------------------------------------------------------------------|
 | Aisling Greene    |  @AislingGreene      | Project coordination, modeling pipeline, visualization, README/docs   |
-| Rebecca Forman    |   |                      |
+| Rebecca Forman    |  @rebecca-17         | Data Loading, Model Testing, Final Presentation
 | Saanvi Chougule   |   |                   |
 | Joseph Boadi      |   |            |
 | Juliana Prada     |   |          |
