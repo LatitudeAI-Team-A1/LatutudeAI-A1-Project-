@@ -25,7 +25,7 @@
 | Saanvi Chougule   |   |                   |
 | Joseph Boadi      |   |            |
 | Juliana Prada     |   |          |
-| Malk Khalifa      |   |                                  |
+| Malk Khalifa      |   @Malakk79          |Debugging, Data Training                                  |
 | Emmanuel Fanibi   |   @efanibi25                 |Data Training|
 
 ---
