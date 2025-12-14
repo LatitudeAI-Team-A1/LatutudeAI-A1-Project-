@@ -23,7 +23,7 @@
 | Aisling Greene    |  @AislingGreene      | Project coordination, modeling pipeline, visualization, README/docs   |
 | Rebecca Forman    |  @rebecca-17         | Data Loading, Model Testing, Final Presentation
 | Saanvi Chougule   |   @saanvic16         | Data Loading, Model Testing, Visualization, Final Presentation 
-| Joseph Boadi      |   |            |
+| Joseph Boadi      |   @boadijoseph7177   | Data Training, Logging & Checkpointing, Final Presentation      |
 | Juliana Prada     |   |          |
 | Malk Khalifa      |   @MalakK79          |Debugging, Data Training                                  |
 | Emmanuel Fanibi   |   @efanibi25                 |Data Training|
