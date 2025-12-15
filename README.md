@@ -24,7 +24,7 @@
 | Rebecca Forman    |  @rebecca-17         | Data Loading, Model Testing, Final Presentation
 | Saanvi Chougule   |   @saanvic16         | Data Loading, Model Testing, Visualization, Final Presentation 
 | Joseph Boadi      |   @boadijoseph7177   | Data Training, Logging & Checkpointing, Final Presentation      |
-| Juliana Prada     |   |          |
+| Juliana Prada     |   @izzjuliana        | Data Loading, Visualization, Final Presentation
 | Malk Khalifa      |   @MalakK79          |Debugging, Data Training                                  |
 | Emmanuel Fanibi   |   @efanibi25                 |Data Training|
 
